@@ -11,8 +11,8 @@ I specialize in building **agentic workflows**, **local-first AI applications**,
 | :--- | :--- |
 | **Frontend** | ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=orange) |
-| **AI / ML & Local LLMs** | ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) `typhoon2.5-qwen` `bge-m3` `bge-reranker` |
-| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) `pgvector` |
+| **AI / ML & Local LLMs** | ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Typhoon 2.5](https://img.shields.io/badge/Typhoon_2.5-FF5A09?style=for-the-badge&logo=opsgenie&logoColor=white) ![BGE M3](https://img.shields.io/badge/BGE--M3-26A69A?style=for-the-badge&logo=deepmind&logoColor=white) ![BGE Reranker](https://img.shields.io/badge/BGE--Reranker-00796B?style=for-the-badge&logo=deepmind&logoColor=white) |
+| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **DevOps & Services** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Google Sheets API](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Discord Webhook](https://img.shields.io/badge/Discord_Webhook-5865F2?style=for-the-badge&logo=discord&logoColor=white) |
 
 ---
@@ -40,10 +40,10 @@ A secure, privacy-focused Medical Retrieval-Augmented Generation (RAG) assistant
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanachod-int&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Tanachod's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanachod-int&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanachod-int&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Tanachod's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanachod-int&theme=dark&background=0d1117&hide_border=true" alt="Tanachod's GitHub Streak" height="180px" />
 </p>
 
 ---
