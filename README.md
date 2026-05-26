@@ -1,7 +1,7 @@
 # Hi there, I'm Tanachod
 ### Full-Stack Developer & AI Systems Engineer
 
-I specialize in building **agentic workflows**, **local-first AI applications**, and **high-observability data pipelines**. I love bridging the gap between advanced AI models (like Gemini & Typhoon) and robust, modern full-stack architectures.
+I specialize in building **agentic workflows**, **local-first AI applications**, and **high-observability data pipelines**. I love bridging the gap between advanced AI models (like Gemini & Typhoon) and modern full-stack architectures.
 
 ---
 
