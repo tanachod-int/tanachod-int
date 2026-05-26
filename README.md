@@ -38,8 +38,3 @@ A secure, privacy-focused Medical Retrieval-Augmented Generation (RAG) assistant
     *   **Strict Medical Guardrails**: Embedded security rules (Red Flags) to detect severe symptoms and immediately redirect to emergency services while providing textbook citations for diagnoses.
 *   **Tech Stack**: Next.js 15 (App Router), React 19, Tailwind CSS v4, Radix UI, LangChain, PostgreSQL (pgvector), Supabase SSR, Ollama (`typhoon2.5-qwen3-4b`, `bge-m3`, `bge-reranker-base`, `typhoon-ocr1.5-3b`).
 
----
-
-## 📫 Let's Connect!
-- **GitHub**: [github.com/tanachod-int](https://github.com/tanachod-int)
-- **Email**: tanachod.int@gmail.com
