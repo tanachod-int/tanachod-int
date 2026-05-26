@@ -40,14 +40,6 @@ A secure, privacy-focused Medical Retrieval-Augmented Generation (RAG) assistant
 
 ---
 
-## 📈 GitHub Stats & Activity
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanachod-int&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Tanachod's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanachod-int&theme=dark&background=0d1117&hide_border=true" alt="Tanachod's GitHub Streak" height="180px" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 - **GitHub**: [github.com/tanachod-int](https://github.com/tanachod-int)
 - **Email**: tanachod.int@gmail.com
