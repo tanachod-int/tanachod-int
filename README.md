@@ -22,12 +22,12 @@ I specialize in building **agentic workflows**, **local-first AI applications**,
 ### 1. **AutoAgent Dashboard** — *Human-in-the-Loop AI Automation*
 An advanced dashboard designed for natural-language driven AI operations pipelines with interactive observability and human approval gates.
 *   **The Workflow**: 
-    1. Users input natural language requests in Thai (e.g., *"หาสินค้าที่ stock ต่ำกว่า 10 ชิ้น"*).
-    2. Backend translates the query into optimized PostgreSQL SQL via Gemini API (`gemini-3.1-flash-lite`).
-    3. Executes the query against a Supabase/PostgreSQL database.
-    4. Automatically generates critical inventory reports and logs them to **Google Sheets**.
-    5. Drafts a **Discord Embed Notification** using Gemini.
-    6. Prompts the user on the dashboard to **approve** the notification before broadcasting via Discord Webhooks.
+    * **Users input natural language requests in Thai (e.g., *"หาสินค้าที่ stock ต่ำกว่า 10 ชิ้น"*).
+    * **Backend translates the query into optimized PostgreSQL SQL via Gemini API (`gemini-3.1-flash-lite`).
+    * **Executes the query against a Supabase/PostgreSQL database.
+    * **Automatically generates critical inventory reports and logs them to **Google Sheets**.
+    * **Drafts a **Discord Embed Notification** using Gemini.
+    * **Prompts the user on the dashboard to **approve** the notification before broadcasting via Discord Webhooks.
 *   **Tech Stack**: Next.js 15, React 19, TypeScript, Tailwind CSS 4, Python, FastAPI, LangGraph (State Machine), Gemini API, Supabase PostgreSQL, Google Sheets API, Discord Webhook.
 
 ### 2. **ChatBSA** — *Local-First Medical RAG Chatbot*
